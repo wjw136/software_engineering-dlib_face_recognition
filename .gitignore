@@ -1,0 +1,14 @@
+simsun.ttc
+__pycahe__/
+settings.json
+*.xlsx
+*.pyc
+Test/
+.idea/
+.spec
+img_information/
+resources/company.db
+build/
+resources/dlib_face_recognition_resnet_model_v1.dat
+resources/shape_predictor_68_face_landmarks.dat
+App.exe
